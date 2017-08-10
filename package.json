@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pluralize": "^6.0.0"
+  }
+}
